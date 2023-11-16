@@ -1,0 +1,3020 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "15757959702715829669",
+                "name": "Rumah Makan Suci Tanjung",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.63238349999999,
+                    -6.9162567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1672802993748669729",
+                "name": "KEDAI MAKAN NUGRAHA",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6409745,
+                    -6.9250429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "13598238307573514934",
+                "name": "Rumah Makan Basamo",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.632215,
+                    -6.914735299999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1032964523892589492",
+                "name": "Kuliner MM",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6331642,
+                    -6.922975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2123439781773705238",
+                "name": "RM. Siang Malam",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.629015,
+                    -6.9128925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "17451905459880121488",
+                "name": "Rumah Makan Suka Menanti",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.641632,
+                    -6.9093214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3896172538704029645",
+                "name": "Warung Nasi Berhias",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.64432049999999,
+                    -6.9247469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1083521026907455399",
+                "name": "Kantin Bude TSM",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6366917,
+                    -6.927803099999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "379183486726984296",
+                "name": "Rumah Makan Permata",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.64795710000001,
+                    -6.919109799999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "18267533547267445079",
+                "name": "The Restaurant at The Trans Luxury Hotel Bandung",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6364517,
+                    -6.926114900000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "12145128537671953566",
+                "name": "Rumah Makan Jogja",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.64121999999999,
+                    -6.9089319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "6860617103160303072",
+                "name": "Selera Rumah Makan",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6242765,
+                    -6.930173499999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3749963646875257514",
+                "name": "Kedai Makan Asik",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.63332779999999,
+                    -6.903512999999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2281633347916120822",
+                "name": "Rumah Makan Kojona",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6437957,
+                    -6.9131244999999995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5484443738666678324",
+                "name": "Makanan ringan",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6397896,
+                    -6.9228049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "6955838249361555892",
+                "name": "Warung nasi bu cucu",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6194518,
+                    -6.918767099999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "16901870913891867309",
+                "name": "Rumah Makan Padang Putri Bungsu",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6426049,
+                    -6.9364213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "16349808671347813413",
+                "name": "Rumah Makan Bundo",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.62972130000001,
+                    -6.9388982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "15232778263023657730",
+                "name": "Rumah Makan Pondok",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6240565,
+                    -6.9010459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "651789952872604121",
+                "name": "Warung malay",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.63775369999999,
+                    -6.928772299999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5069753107779994942",
+                "name": "Resto Masakan Ibu",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.64160799999999,
+                    -6.9010416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "4644348335806773843",
+                "name": "Suharta Rumah Makan",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6153966,
+                    -6.9184908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "15598088035089969358",
+                "name": "Rumah Makan Ny Tjoan",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.61422519999999,
+                    -6.9194552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "8818455299962363490",
+                "name": "KANTIN 12",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6238297,
+                    -6.9317896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "661315809430167185",
+                "name": "Ganeto Rumah Makan",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6153966,
+                    -6.9184908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "11562585201142764569",
+                "name": "Rumah Makan Legoh",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.61315619999999,
+                    -6.9233642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "15903186683864599067",
+                "name": "RM Alas Daun - Bandung",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6251484,
+                    -6.901729100000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3493269844899666495",
+                "name": "Rumah Makan & Mini Market Bunga Raya",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.62289609999999,
+                    -6.9336972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "10368289110764156913",
+                "name": "Uci Rumah Makan",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6227418,
+                    -6.9024189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "8101523261003741536",
+                "name": "Rumah Makan Putri Tanjung",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6577365,
+                    -6.925625699999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "8786504245737554331",
+                "name": "Kuliner",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6446093,
+                    -6.9325674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "9161709541229352486",
+                "name": "Paviliun Sunda",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.62013999999999,
+                    -6.905651499999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2048855510719058641",
+                "name": "Atmosphere Resort Caf\u00e9",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.61345220000001,
+                    -6.9267189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "13891212307761925701",
+                "name": "Warung Makan Anugrah",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6411073,
+                    -6.945464500000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "10141512378160711545",
+                "name": "Boga Kuring",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6273698,
+                    -6.899238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "11715488003670005636",
+                "name": "Everything Food",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6452765,
+                    -6.9065172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "14674363775808603700",
+                "name": "Rumah Makan Nusantara",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.60609749999999,
+                    -6.9211363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "13065794290855290723",
+                "name": "Restoran",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.60910609999999,
+                    -6.922610199999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "4135887596072723404",
+                "name": "Kedai Rumah",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.62696629999999,
+                    -6.9438901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "12626228773441220069",
+                "name": "Rumah Makan MASUNDA",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6155599,
+                    -6.903156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "7993918073917250687",
+                "name": "Restaurant Rasa",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.61213029999999,
+                    -6.9191158999999995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "16812699651067838709",
+                "name": "Warnas Ibu Iis",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.61475589999999,
+                    -6.932822799999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "8379904372641497174",
+                "name": "Makanan Sunda",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6145265,
+                    -6.9067703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3478349106133610961",
+                "name": "Kantin Umum 726",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.65107979999999,
+                    -6.904795399999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "13945326103254721719",
+                "name": "Rumah Makan Hani",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.60949319999999,
+                    -6.917845100000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "7885075819143912556",
+                "name": "resto",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6331539,
+                    -6.948595699999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "12101541468463077048",
+                "name": "Masakan Bu Wahyu",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.61201109999999,
+                    -6.9069639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "14700757926390896207",
+                "name": "Kedai Makan DK",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.60424309999999,
+                    -6.9222065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "4665868445487659707",
+                "name": "Rumah Makan Parasmanan",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6090042,
+                    -6.9078081000000005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "13202492937526177837",
+                "name": "Warung Makan Mak Inyo",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6572848,
+                    -6.9037443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "18288268952855167154",
+                "name": "Bgana Restoran Keluarga",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6110054,
+                    -6.9085873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "15219740751388106075",
+                "name": "Restoran",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.60893399999999,
+                    -6.898676999999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2645276334652121681",
+                "name": "Rumah Makan Pak Yana",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.60186270000001,
+                    -6.9149318000000015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "13983205020967100656",
+                "name": "Rumah Makan",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6386047,
+                    -6.914888500000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1287982012772753264",
+                "name": "Rumah Makan Sunda",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.63253470000001,
+                    -6.917851499999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "14186400620182925602",
+                "name": "Warung Suluh Restaurant",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6001969,
+                    -6.906025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3871128913657635340",
+                "name": "Dapur Dahapati",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.60230419999999,
+                    -6.8873593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "13250971855560677980",
+                "name": "D'poet Resto",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6033865,
+                    -6.9297799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5937472575139008915",
+                "name": "Rumah Makan Mamah Fadil",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6018575,
+                    -6.936163899999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "504306105613050317",
+                "name": "Warung nasi 'T' nung",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.59895259999999,
+                    -6.912450199999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "11748710053394950742",
+                "name": "Rumah Makan",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6045717,
+                    -6.8958264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "14612743723612275867",
+                "name": "Raja Sunda",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5912323,
+                    -6.8970337000000015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "8710194384933985343",
+                "name": "cafe&resto wowthebestfood",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6662602,
+                    -6.9041751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "454435512054860491",
+                "name": "Food House Bandung",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5909704,
+                    -6.9213187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "4840086238742715884",
+                "name": "D'Cost Seafood Bandung Indah Plaza",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6108989,
+                    -6.9089916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "800278860829276269",
+                "name": "RM. July",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6122991,
+                    -6.9565271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "10478671239782813612",
+                "name": "Warung Nasi SW",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6648175,
+                    -6.9040292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "4817116823136602894",
+                "name": "de sanirasa - Restoran Nusantara Bandung",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.60080169999999,
+                    -6.887101500000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "17253513361283904663",
+                "name": "Rumah Makan Pusako",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6028144,
+                    -6.9431217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "7273268190498716453",
+                "name": "Eat 4 Treat Bandung",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6139395,
+                    -6.9032214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "12918678539118838084",
+                "name": "Miss Bee Providore",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6090693,
+                    -6.8683511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1670083347839385295",
+                "name": "Restoran Simpang Raya",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.58540289999999,
+                    -6.8923505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2880471146172292961",
+                "name": "Eat hits love",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6304835,
+                    -6.921304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "8282352313001624390",
+                "name": "Kirra Eatery",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6038933,
+                    -6.8861786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "10251444808704185711",
+                "name": "Restoran Raja Rasa",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.58394229999999,
+                    -6.8798293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "17983836300188531229",
+                "name": "Warung nasi mas Jhon",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6005435,
+                    -6.9228817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "12421722481064253567",
+                "name": "Rumah Makan Sunda Bambu",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.58625669999999,
+                    -6.8930340999999995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "14397264274776618923",
+                "name": "Warung Nasi Hen Prima",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6067216,
+                    -6.9221499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5460378181371455952",
+                "name": "Nara Park Bandung",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6101245,
+                    -6.867704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "10008333526096722941",
+                "name": "Justus Steak House Ciwalk",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6054678,
+                    -6.893223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "9192631117119904164",
+                "name": "Warung H Andri",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5796134,
+                    -6.8920004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "15643638548787938485",
+                "name": "Feast Restaurant",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6200061,
+                    -6.8743077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "10494971698963678608",
+                "name": "Tjendana Bistro",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5961218,
+                    -6.8825081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "17553247285226211653",
+                "name": "Queen Legend Restaurant",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6049195,
+                    -6.8811352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2688446797243477535",
+                "name": "Restoran Sederhana Setiabudi Bandung",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.59819139999999,
+                    -6.879719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3045856208626879105",
+                "name": "AhMei Cafe Bandung",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.59978559999999,
+                    -6.8828401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "9111596339743813654",
+                "name": "Kalpa Tree Dine and Chill",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.60995829999999,
+                    -6.866147799999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "16660031057428339521",
+                "name": "Rumah Makan Sunda LOTEK ASLI, Setiabudhi",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5949995,
+                    -6.8725998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2004539428648418278",
+                "name": "Justus Steak House Paris Van Java",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5963759,
+                    -6.888340299999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "11938484283897939977",
+                "name": "The Restaurant - Hotel Padma",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.60886769999999,
+                    -6.8643331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "17266096880201643311",
+                "name": "Ma' Uneh Setiabudi",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.593423,
+                    -6.868964399999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "6609279830658631746",
+                "name": "Bakmi Parahyangan",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.596012,
+                    -6.878483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "6361419258181449887",
+                "name": "Bakmi Apin Bandung Sukajadi",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5970134,
+                    -6.886059899999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "8342104000935783972",
+                "name": "Rumah Makan Saung Pengkolan",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6013572,
+                    -6.834649799999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "15291918177041687873",
+                "name": "Pizza Hut Restoran",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.596271,
+                    -6.8750651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "8776823148077359894",
+                "name": "Gepuk Ny Yong",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.59647819999999,
+                    -6.8744992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "18353346099803901352",
+                "name": "JIGANASUKI",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.596057,
+                    -6.879713199999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "13562022970858260752",
+                "name": "Pondok IJO Baso & Cafe",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5894635,
+                    -6.8695477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1151369527713315085",
+                "name": "Pepper Lunch",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5958593,
+                    -6.889944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2766151168664314757",
+                "name": "Nila Nyengir Resto",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.59848070000001,
+                    -6.853828399999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2015109785099476151",
+                "name": "Makan Puas Branch Office Bandung",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5824031,
+                    -6.883689500000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "9886240840614275034",
+                "name": "81 Sky Resto",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.59334559999999,
+                    -6.8694247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5922192007890368484",
+                "name": "Reunion House Grill & Bar",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5993985,
+                    -6.8817281999999995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "10964113523019342941",
+                "name": "Ampera Rumah Makan",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5949157,
+                    -6.8594992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3998594971481708803",
+                "name": "Rumah Makan Bandung",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5581661,
+                    -6.8769661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "7391746332899730291",
+                "name": "Maxi's Resto",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.60723229999999,
+                    -6.8679944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3513206223917066967",
+                "name": "Ikan Pesmol Cianjur",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5964115,
+                    -6.8751663999999995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2000848609865937217",
+                "name": "Kantin NewBarokah",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5916173,
+                    -6.8659938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "10435972746212040015",
+                "name": "Nasi Goreng Aep's",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.59337110000001,
+                    -6.8699387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "14408868265523435862",
+                "name": "Spice Affair Bandung Indian Fusion Cuisine",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.59670290000001,
+                    -6.884395199999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "14600302140677553065",
+                "name": "SKA DapurLaut",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5842366,
+                    -6.8683634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "6710234110093602703",
+                "name": "Kambing Bakar Cairo",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5916316,
+                    -6.870146699999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "16783507225062566818",
+                "name": "Dapur Jinten",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6461539,
+                    -6.9102972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "589259871589796582",
+                "name": "Kampung Cerbonan",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5775807,
+                    -6.886880199999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "17877912733184017254",
+                "name": "Ayam Kacida",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5649107,
+                    -6.853741800000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "14412550392064801539",
+                "name": "Restoran The Volcano",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5826264,
+                    -6.8810511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "16522662842339700976",
+                "name": "RM.",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5478024,
+                    -6.8660282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "4023077236112242874",
+                "name": "Warung Nasi Ibu Alin",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.661108,
+                    -6.900797600000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "12323265246202442186",
+                "name": "Venesia Restaurant",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5820306,
+                    -6.8891149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "890366797162393576",
+                "name": "Restoran Pecel Madiun",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5946724,
+                    -6.838980999999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5046537091232710573",
+                "name": "Sushi Tei Flamboyant",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5969349,
+                    -6.8780804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "17762433803627407251",
+                "name": "Korean House Bandung",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5962544,
+                    -6.8831238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "17450995586541723000",
+                "name": "Bandung Boga Makmur. PT",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5938743,
+                    -6.866820100000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "6989547807303067490",
+                "name": "Markas Opang Resto",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.55578949999999,
+                    -6.8642262999999994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "15576310734577212952",
+                "name": "The Heritage Kitchen & Gallery",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.59498599999999,
+                    -6.8605146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "8653550964053511970",
+                "name": "Mr Roastman Experience - Bandung",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.60517329999999,
+                    -6.8733872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "14100097328852258446",
+                "name": "Warung Nasi Bu Elis",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6039418,
+                    -6.8194161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "101311679585365201",
+                "name": "Dakken Restaurant - Setiabudhi",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.59571609999999,
+                    -6.8615227999999995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1446955024000014",
+                "name": "WaterLeaf Restaurant",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5974639,
+                    -6.8566233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "15905294347534191822",
+                "name": "Doyan Ayam Gegerkalong Bandung",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.59135839999999,
+                    -6.8695591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "8390985291821497550",
+                "name": "Super Enjoy Bandung",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.593356,
+                    -6.870141899999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "14732873992872975395",
+                "name": "YumYam Food",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.56999119999999,
+                    -6.8524578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "955937482521348695",
+                "name": "Warung Nasi Terdekat",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.7107348,
+                    -6.9198889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "9843921796690675825",
+                "name": "Rumah Makan Soto Bandung Spesial 'Aa Teteh'",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.54731690000001,
+                    -6.8735238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "7507060732967979725",
+                "name": "INGAT MAKAN !!! bandung",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.61230959999999,
+                    -6.923918599999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "66787087099075855",
+                "name": "Batagor Bandung",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5916144,
+                    -6.8717323000000015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "14598736264116211425",
+                "name": "Ramen 38 Chaya",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.59645499999999,
+                    -6.8795092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "12614103914388777172",
+                "name": "Magal Bandung",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5960703,
+                    -6.8886945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1590361563767525713",
+                "name": "Mie Kocok Bandung Sahabat",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.59239559999999,
+                    -6.8976099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "816014627334926594",
+                "name": "Hachi Grill Sutami Bandung",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.587626,
+                    -6.8778783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "18282720286405364120",
+                "name": "Saka Bistro & Bar",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.59861699999999,
+                    -6.880809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "13833407968100803424",
+                "name": "McDonald's Setiabudi Bandung",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5981881,
+                    -6.8785545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "4054336075881990400",
+                "name": "Jatinangor House - Gegerkalong Bandung",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.59340259999999,
+                    -6.8690067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "17897049900784165791",
+                "name": "Foek TakeAway Bandung Setiabudhi",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.59394669999999,
+                    -6.867918899999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "12034059529429221684",
+                "name": "Jing Paradise Chinese Fine Dining Restaurant",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5956375,
+                    -6.8548421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "12703639431924149115",
+                "name": "Lunch On!",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.63099349999999,
+                    -6.8995596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "15476701387787470926",
+                "name": "KEDAI SANSANWAWA",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6030261,
+                    -6.8206063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "14506759994491259989",
+                "name": "Besteak Resto, Apartemen Gateway Pasteur Bandung",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5660678,
+                    -6.8893781999999995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3481501380164931085",
+                "name": "Ayam Dadar Bandung Official",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5874929,
+                    -6.8660559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "13173734069673747499",
+                "name": "Sate Tegal Marem",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.59661009999999,
+                    -6.874872499999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "11812012461454128982",
+                "name": "MIE TUL GOED SARIJADI BANDUNG",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.58010979999999,
+                    -6.8761151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "15475109515837063143",
+                "name": "Warung Berkah",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.57478289999999,
+                    -6.8461957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "15072462854720418095",
+                "name": "Laxmi Resto Gallery",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.57334159999999,
+                    -6.876570999999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3124803331164966230",
+                "name": "Warung Berkah",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5886601,
+                    -6.807182399999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2244211802129267590",
+                "name": "Sate ayam bang rudi",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5621609,
+                    -6.8873893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5188348182520962783",
+                "name": "KFC Setiabudi Bandung",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5934691,
+                    -6.868348699999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2605924033237738148",
+                "name": "Pecel 21 Lele cibabat",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5655181,
+                    -6.859813399999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1165745540428292290",
+                "name": "Nasi Goreng & Mendoan Aru 141",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5756785,
+                    -6.8489425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "17830034661752928782",
+                "name": "Warung Sate Maranggi",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5972338,
+                    -6.8210953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "12859469050955123832",
+                "name": "Oto",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.60157780000002,
+                    -6.8355456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "11317360854735820049",
+                "name": "kuca.bandung",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.593385,
+                    -6.868946999999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "4254988458939336537",
+                "name": "Warung Nasi Khas Sunda Ibu Nani",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5692619,
+                    -6.8504533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2635656727772399661",
+                "name": "Gion Izakaya",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5786974,
+                    -6.8907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "16587656497111755121",
+                "name": "Restoran",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6103502,
+                    -6.950517400000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "10925975075570204185",
+                "name": "Champ Resto Indonesia",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5712789,
+                    -6.8457823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1703897226293735977",
+                "name": "Cemilan Sejoli",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5974701,
+                    -6.8566248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "7695574582876560320",
+                "name": "Ngikan Yuk Setiabudi Bandung",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5933732,
+                    -6.870009800000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "9168054705145451790",
+                "name": "KEDAI 876 ATLIT",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5755458,
+                    -6.8431432999999995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "9933560343307465354",
+                "name": "KEDAI ONES",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5444747,
+                    -6.862027599999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "14125944947791486048",
+                "name": "RM. Soto Bandung Special",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5470655,
+                    -6.8728405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "6896327478102320646",
+                "name": "Pedesan Anjim Bandung",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5951736,
+                    -6.8611311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "11765210154094370060",
+                "name": "Ayam Geprek Saldin Bandung",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.596165,
+                    -6.858644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "6481746160448569719",
+                "name": "Waroeng Tjimahi",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5388291,
+                    -6.871287799999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3693643432694719262",
+                "name": "Kantin CAB (Cuanki Asli Bandung)",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5875903,
+                    -6.867502399999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3950214526868761941",
+                "name": "Goldstar 360 food coffee shisha",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5822398,
+                    -6.8840987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "7215943781388647724",
+                "name": "Warung & Rm. Makan",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6206821,
+                    -6.9528108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1505371610983516374",
+                "name": "Warung Mak Eros Soto Bandung",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5464718,
+                    -6.863552299999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "4901519434409492750",
+                "name": "Ayam Dadar Bandung",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5609289,
+                    -6.8669103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "6509388825106572082",
+                "name": "Bumi Sangkuriang",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.60903100000002,
+                    -6.8670293000000004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "8310290951985116909",
+                "name": "KEDAI COD Waruga Jaya Bandung",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.581154,
+                    -6.8559014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "6658039543922082555",
+                "name": "Batagor Alex",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5836772,
+                    -6.8814204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "14855792642090257778",
+                "name": "SOTO BANDUNG & GEPUK NJONJA HARTATI",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.56150400000001,
+                    -6.8718394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "9310763559530842490",
+                "name": "Warung Makan",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6212546,
+                    -6.938042299999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "6996264592943655707",
+                "name": "Bakmi Ponyo",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.57110759999999,
+                    -6.8614336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "387413908279836094",
+                "name": "Warung Bandung",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6165161,
+                    -6.9517259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "9526233839534030124",
+                "name": "Gaia Semeja Asian Kitchen",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.60029670000002,
+                    -6.8438804000000015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "11241091027644232724",
+                "name": "AYAM geprek AA Bandung",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.57951849999999,
+                    -6.86435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "15191808369251860461",
+                "name": "Bandung Rasa",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6059073,
+                    -6.9037497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "16420289753560679224",
+                "name": "Sigli Jaya",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.61515209999999,
+                    -6.8847796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "10542631126165525118",
+                "name": "Warung makanan",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.60356499999999,
+                    -6.9056123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "13758106782257260909",
+                "name": "Cuanki Wildan",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.59726979999999,
+                    -6.8796895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "12703195778250925866",
+                "name": "Monomono",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.60029670000002,
+                    -6.8438804000000015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "13283990957156145575",
+                "name": "Nasi Goreng Babah Bayu, Masduki",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5697289,
+                    -6.850385399999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "12531579367990636642",
+                "name": "Panda Dimsum Bandung",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5974799,
+                    -6.846065299999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "17759109918034630924",
+                "name": "Oemah Andrawina",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5717186,
+                    -6.837028999999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5642358384494816563",
+                "name": "Ranca Bentang Villa dan Resto khas Sunda Cihideung",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5973909,
+                    -6.814706900000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2501507744137387750",
+                "name": "Ayam Goreng Ibu Euis",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6045343,
+                    -6.885485699999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "14396808632773904058",
+                "name": "Oriental Corner",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5822539,
+                    -6.880767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "11761457177586135815",
+                "name": "Food Court Griya Setiabudi",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5944262,
+                    -6.8718588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "12451095570579716385",
+                "name": "ngerang gerlong",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5905476,
+                    -6.869815300000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "9800723854010540307",
+                "name": "Ikan Bakar Bbm Bandung",
+                "level 1": "poisLite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.57975909999999,
+                    -6.8754369
+                ]
+            }
+        }
+    ]
+}
